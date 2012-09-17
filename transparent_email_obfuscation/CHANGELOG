@@ -1,0 +1,11 @@
+* 1.0.2 (2011-11-01)
+
+Fixed a bug where an extra colon character was added to the email address in the "href"
+
+* 1.0.1 (2011-10-28)
+
+Added a hash (#) in front of the NOSPAM href to prevent it from being interpreted as a protocol
+
+* 1.0
+
+Initial Release
